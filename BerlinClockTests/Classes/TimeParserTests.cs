@@ -6,7 +6,7 @@ namespace BerlinClock.Classes.Tests
     [TestClass()]
     public class TimeParserTests
     {
-        ITimeParser timeParser;
+        TimeParser timeParser;
 
         [TestInitialize]
         public void init()

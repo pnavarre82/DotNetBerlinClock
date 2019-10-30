@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BerlinClock.Classes
+namespace BerlinClock
 {
     public class TimeParser: ITimeParser
     {
